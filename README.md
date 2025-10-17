@@ -1,106 +1,60 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Hi+There!+👋+I'm+a+Senior+Full-Stack+Developer;Design-Driven+Engineer+%7C+AI+%26+Blockchain+Innovator;Building+Scalable+%26+Elegant+Digital+Experiences" alt="Typing SVG" />
-</h1>
+# 👋 Hi, I'm Daniel  
+### Senior Full-Stack Developer | Design-Oriented Engineer | AI & Blockchain Enthusiast  
 
 ---
 
-<div align="center">
-  
-✨ Crafting reliable, high-performance digital solutions with a focus on clean code, intuitive design, and cutting-edge technology. ✨  
+## 💡 About Me  
 
-</div>
+I’m a **Senior Full-Stack Developer** with **9+ years of experience** in designing and building **scalable web** and **decentralized applications**.  
+I specialize in combining **strong engineering fundamentals** with **design-focused thinking** to create digital products that are reliable, performant, and intuitive.  
 
----
-
-## 🧑‍💻 About Me  
-
-I’m a **Senior Full-Stack Developer** with **9+ years of experience** delivering scalable, high-impact **web** and **decentralized applications**.  
-I combine **engineering excellence** with **aesthetic design thinking** to create digital products that are **fast**, **secure**, and **delightful to use**.  
-
-💡 Areas of Expertise:  
-- **AI-Enhanced Applications** (LLM integrations, automation, intelligent systems)  
-- **Blockchain Development** (smart contracts, dApps, Web3 architecture)  
-- **Design-Centric Frontend Engineering** (UX-focused React, Next.js, TailwindCSS)  
-- **Cloud & DevOps** (AWS, Docker, CI/CD, microservices)  
+My work bridges the gap between **technology and user experience**, leveraging emerging tools like **AI** and **blockchain** to solve real-world challenges.  
 
 ---
 
-## ⚙️ Core Stack  
+## 🧰 Technical Expertise  
 
-<div align="center">
+**Languages:**  
+JavaScript · TypeScript · Python · Go  
 
-### 🧠 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
+**Frontend:**  
+React · Next.js · TailwindCSS · UI/UX Implementation  
 
-### 🧩 Frameworks & Tools  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
+**Backend & APIs:**  
+Node.js · Express · GraphQL · REST · Prisma  
 
-### ☁️ Cloud, DevOps & Data  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
+**Cloud & Infrastructure:**  
+AWS · Docker · CI/CD · PostgreSQL · MongoDB  
 
-### 🤖 AI & Blockchain  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=fff)
-![LangChain](https://img.shields.io/badge/-LangChain-00B4D8?style=for-the-badge)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=fff)
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-1C1E24?style=for-the-badge)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge)
-
-</div>
+**Emerging Tech:**  
+OpenAI · LangChain · Solidity · Web3.js · Ethers.js  
 
 ---
 
-## 🧩 My Philosophy  
+## 🧭 Development Philosophy  
 
-💬 **Design for Humans, Build for Scale**  
-I believe great engineering blends functionality and beauty. Every product should be **efficient**, **accessible**, and **visually engaging**.  
-
-🧱 **Clean Code & Architecture**  
-Readable, modular, and maintainable codebases empower teams to move faster.  
-
-🔁 **Continuous Growth**  
-Technology never stops evolving — neither do I. I learn, adapt, and experiment with new ideas every day.  
+- **Clarity over complexity:** Clean, readable, and maintainable code.  
+- **Design with purpose:** Every element should serve both function and form.  
+- **Scale from the start:** Build systems prepared for growth and change.  
+- **Continuous learning:** Stay ahead of trends and technologies.  
 
 ---
 
-## 🎨 Beyond the Code  
+## 🎯 Beyond Work  
 
-Outside of development, I find creativity and balance through:  
-- 🎯 **Playing Go (Baduk)** – cultivating strategy & focus  
-- 🚴 **Cycling & outdoor sports** – staying active and mindful  
-- 📚 **Exploring design systems & AI innovation** – always curious about the next wave of digital evolution  
+When I’m not coding, I enjoy:  
+- 🕹️ Playing **Go (Baduk)** to sharpen strategy and patience.  
+- 🚴 Cycling and sports for a balanced, focused lifestyle.  
+- 📚 Exploring design, technology, and AI innovation topics.  
 
 ---
 
 ## 📫 Let’s Connect  
 
-<div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+- **Portfolio:** [honeyapple1014.github.io](https://honeyapple1014.github.io)  
+- **Email:** [honeyapple1014@gmail.com](mailto:honeyapple1014@gmail.com)  
 
 ---
 
-## ⚡ Quote to Code By  
-
-> “Great design is not just how it looks — it’s how it works.” — *Steve Jobs*  
->  
-> Crafting solutions that are **beautiful in design** and **brilliant in execution.** ✨
+> “Great software is crafted with precision, empathy, and imagination.”  
+> — *Daniel*  
